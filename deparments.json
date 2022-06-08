@@ -1,0 +1,332 @@
+[
+    {
+        "dIdAuto": 1,
+        "dId": "F_xdhoOfp1GC2WZwuF7t3",
+        "dName": "ANTIOQUIA",
+        "dCode": "5",
+        "dEdit": 1,
+        "dState": 1,
+        "createdAt": "2022-06-15 09:43:00",
+        "updatedAt": "2022-06-15 09:43:00"
+    },
+    {
+        "dIdAuto": 2,
+        "dId": "nVV7JErzlxFh8USw5a9k8",
+        "dName": "ATLÁNTICO",
+        "dCode": "8",
+        "dEdit": 1,
+        "dState": 1,
+        "createdAt": "2022-06-15 09:43:00",
+        "updatedAt": "2022-06-15 09:43:00"
+    },
+    {
+        "dIdAuto": 3,
+        "dId": "3wOrgAe2mdKUrZYkfdDN1",
+        "dName": "BOGOTÁ, D.C",
+        "dCode": "11",
+        "dEdit": 1,
+        "dState": 1,
+        "createdAt": "2022-06-15 09:43:00",
+        "updatedAt": "2022-06-15 09:43:00"
+    },
+    {
+        "dIdAuto": 4,
+        "dId": "1 TQ6VpekIKEQoLAfUSMD",
+        "dName": "BOLÍVAR",
+        "dCode": "13",
+        "dEdit": 1,
+        "dState": 1,
+        "createdAt": "2022-06-15 09:43:00",
+        "updatedAt": "2022-06-15 09:43:00"
+    },
+    {
+        "dIdAuto": 5,
+        "dId": "gEO8qj7Ax-_38Mq4FK54 ",
+        "dName": "BOYACÁ",
+        "dCode": "15",
+        "dEdit": 1,
+        "dState": 1,
+        "createdAt": "2022-06-15 09:43:00",
+        "updatedAt": "2022-06-15 09:43:00"
+    },
+    {
+        "dIdAuto": 6,
+        "dId": "PloWd-feI3W_KmYfEY6Ne",
+        "dName": "CALDAS",
+        "dCode": "17",
+        "dEdit": 1,
+        "dState": 1,
+        "createdAt": "2022-06-15 09:43:00",
+        "updatedAt": "2022-06-15 09:43:00"
+    },
+    {
+        "dIdAuto": 7,
+        "dId": "sy3Oe98SZK36-UUZekxsm",
+        "dName": "CAQUETÁ",
+        "dCode": "18",
+        "dEdit": 1,
+        "dState": 1,
+        "createdAt": "2022-06-15 09:43:00",
+        "updatedAt": "2022-06-15 09:43:00"
+    },
+    {
+        "dIdAuto": 8,
+        "dId": "VxK-cptS-8TeRNryFwQKT",
+        "dName": "CAUCA",
+        "dCode": "19",
+        "dEdit": 1,
+        "dState": 1,
+        "createdAt": "2022-06-15 09:43:00",
+        "updatedAt": "2022-06-15 09:43:00"
+    },
+    {
+        "dIdAuto": 9,
+        "dId": "THbBTvf2hi-7tx-3Tu 1v",
+        "dName": "CESAR",
+        "dCode": "2 ",
+        "dEdit": 1,
+        "dState": 1,
+        "createdAt": "2022-06-15 09:43:00",
+        "updatedAt": "2022-06-15 09:43:00"
+    },
+    {
+        "dIdAuto": 10,
+        "dId": "xy2_Ja8vabJO2ykqCdqtm",
+        "dName": "CÓRDOBA",
+        "dCode": "23",
+        "dEdit": 1,
+        "dState": 1,
+        "createdAt": "2022-06-15 09:43:00",
+        "updatedAt": "2022-06-15 09:43:00"
+    },
+    {
+        "dIdAuto": 11,
+        "dId": "XX RBTLKZHYExkeo3epnM",
+        "dName": "CUNDINAMARCA",
+        "dCode": "25",
+        "dEdit": 1,
+        "dState": 1,
+        "createdAt": "2022-06-15 09:43:00",
+        "updatedAt": "2022-06-15 09:43:00"
+    },
+    {
+        "dIdAuto": 12,
+        "dId": "VR33HoPcXE6Cbx8 zgWJD",
+        "dName": "CHOCÓ",
+        "dCode": "27",
+        "dEdit": 1,
+        "dState": 1,
+        "createdAt": "2022-06-15 09:43:00",
+        "updatedAt": "2022-06-15 09:43:00"
+    },
+    {
+        "dIdAuto": 13,
+        "dId": "AVmwXDiq5HXNwM4qDFvlu",
+        "dName": "HUILA",
+        "dCode": "41",
+        "dEdit": 1,
+        "dState": 1,
+        "createdAt": "2022-06-15 09:43:00",
+        "updatedAt": "2022-06-15 09:43:00"
+    },
+    {
+        "dIdAuto": 14,
+        "dId": "TNOstWvjsxEt8y16JrobX",
+        "dName": "LA GUAJIRA",
+        "dCode": "44",
+        "dEdit": 1,
+        "dState": 1,
+        "createdAt": "2022-06-15 09:43:00",
+        "updatedAt": "2022-06-15 09:43:00"
+    },
+    {
+        "dIdAuto": 15,
+        "dId": "G2Fo AkOTb-rW2_mg36Sj",
+        "dName": "MAGDALENA",
+        "dCode": "47",
+        "dEdit": 1,
+        "dState": 1,
+        "createdAt": "2022-06-15 09:43:00",
+        "updatedAt": "2022-06-15 09:43:00"
+    },
+    {
+        "dIdAuto": 16,
+        "dId": "mQRJTYSAUJojDiN kEcm ",
+        "dName": "META",
+        "dCode": "5 ",
+        "dEdit": 1,
+        "dState": 1,
+        "createdAt": "2022-06-15 09:43:00",
+        "updatedAt": "2022-06-15 09:43:00"
+    },
+    {
+        "dIdAuto": 17,
+        "dId": "KxMk54AMSWL-gg2QDkrJN",
+        "dName": "NARIÑO",
+        "dCode": "52",
+        "dEdit": 1,
+        "dState": 1,
+        "createdAt": "2022-06-15 09:43:00",
+        "updatedAt": "2022-06-15 09:43:00"
+    },
+    {
+        "dIdAuto": 18,
+        "dId": "WGpc1yT4pTsSOzFIFjG9O",
+        "dName": "NORTE DE SANTANDER",
+        "dCode": "54",
+        "dEdit": 1,
+        "dState": 1,
+        "createdAt": "2022-06-15 09:43:00",
+        "updatedAt": "2022-06-15 09:43:00"
+    },
+    {
+        "dIdAuto": 19,
+        "dId": "3J-XCQTpoc81iivOgVEoD",
+        "dName": "QUINDIO",
+        "dCode": "63",
+        "dEdit": 1,
+        "dState": 1,
+        "createdAt": "2022-06-15 09:43:00",
+        "updatedAt": "2022-06-15 09:43:00"
+    },
+    {
+        "dIdAuto": 20,
+        "dId": "LVztnMgxX1RhNgZuLRLtA",
+        "dName": "RISARALDA",
+        "dCode": "66",
+        "dEdit": 1,
+        "dState": 1,
+        "createdAt": "2022-06-15 09:43:00",
+        "updatedAt": "2022-06-15 09:43:00"
+    },
+    {
+        "dIdAuto": 21,
+        "dId": "WL5m8UWPfxd9VbuxXBFdm",
+        "dName": "SANTANDER",
+        "dCode": "68",
+        "dEdit": 1,
+        "dState": 1,
+        "createdAt": "2022-06-15 09:43:00",
+        "updatedAt": "2022-06-15 09:43:00"
+    },
+    {
+        "dIdAuto": 22,
+        "dId": "-Iq89czFNoIl fEPCAJey",
+        "dName": "SUCRE",
+        "dCode": "7 ",
+        "dEdit": 1,
+        "dState": 1,
+        "createdAt": "2022-06-15 09:43:00",
+        "updatedAt": "2022-06-15 09:43:00"
+    },
+    {
+        "dIdAuto": 23,
+        "dId": "MwpZKbZAApcOiRl8Y_m9C",
+        "dName": "TOLIMA",
+        "dCode": "73",
+        "dEdit": 1,
+        "dState": 1,
+        "createdAt": "2022-06-15 09:43:00",
+        "updatedAt": "2022-06-15 09:43:00"
+    },
+    {
+        "dIdAuto": 24,
+        "dId": "xsEOCAFMpCMpIpomrhrvi",
+        "dName": "VALLE DEL CAUCA",
+        "dCode": "76",
+        "dEdit": 1,
+        "dState": 1,
+        "createdAt": "2022-06-15 09:43:00",
+        "updatedAt": "2022-06-15 09:43:00"
+    },
+    {
+        "dIdAuto": 25,
+        "dId": "Zob1Sh w1wDDaL6F_qS3M",
+        "dName": "ARAUCA",
+        "dCode": "81",
+        "dEdit": 1,
+        "dState": 1,
+        "createdAt": "2022-06-15 09:43:00",
+        "updatedAt": "2022-06-15 09:43:00"
+    },
+    {
+        "dIdAuto": 26,
+        "dId": "hBbZja_Tp QB1iMXqv42i",
+        "dName": "CASANARE",
+        "dCode": "85",
+        "dEdit": 1,
+        "dState": 1,
+        "createdAt": "2022-06-15 09:43:00",
+        "updatedAt": "2022-06-15 09:43:00"
+    },
+    {
+        "dIdAuto": 27,
+        "dId": "NTpNNlBL62cqV-Wd44mBC",
+        "dName": "PUTUMAYO",
+        "dCode": "86",
+        "dEdit": 1,
+        "dState": 1,
+        "createdAt": "2022-06-15 09:43:00",
+        "updatedAt": "2022-06-15 09:43:00"
+    },
+    {
+        "dIdAuto": 28,
+        "dId": "W 6_4dKKKmBGhCodyjLmN",
+        "dName": "ARCHIPIÉLAGO DE SAN ANDRÉS,PROVIDENCIA Y SANTA CATALINA",
+        "dCode": "88",
+        "dEdit": 1,
+        "dState": 1,
+        "createdAt": "2022-06-15 09:43:00",
+        "updatedAt": "2022-06-15 09:43:00"
+    },
+    {
+        "dIdAuto": 29,
+        "dId": "CLbRrk21SD4IqM67HgGJy",
+        "dName": "AMAZONAS",
+        "dCode": "91",
+        "dEdit": 1,
+        "dState": 1,
+        "createdAt": "2022-06-15 09:43:00",
+        "updatedAt": "2022-06-15 09:43:00"
+    },
+    {
+        "dIdAuto": 30,
+        "dId": "P_vs8cYO97iyajU4h5891",
+        "dName": "GUAINÍA",
+        "dCode": "94",
+        "dEdit": 1,
+        "dState": 1,
+        "createdAt": "2022-06-15 09:43:00",
+        "updatedAt": "2022-06-15 09:43:00"
+    },
+    {
+        "dIdAuto": 31,
+        "dId": "V7np1pr6z77nVlvPOLDKD",
+        "dName": "GUAVIARE",
+        "dCode": "95",
+        "dEdit": 1,
+        "dState": 1,
+        "createdAt": "2022-06-15 09:43:00",
+        "updatedAt": "2022-06-15 09:43:00"
+    },
+    {
+        "dIdAuto": 32,
+        "dId": "ghGAlS9Da8mAhY8W5ZyFw",
+        "dName": "VAUPÉS",
+        "dCode": "97",
+        "dEdit": 1,
+        "dState": 1,
+        "createdAt": "2022-06-15 09:43:00",
+        "updatedAt": "2022-06-15 09:43:00"
+    },
+    {
+        "dIdAuto": 33,
+        "dId": "1ZJmE5gZ7ezZ9-48z4DK8",
+        "dName": "VICHADA",
+        "dCode": "99",
+        "dEdit": 1,
+        "dState": 1,
+        "createdAt": "2022-06-15 09:43:00",
+        "updatedAt": "2022-06-15 09:43:00"
+    }
+]
